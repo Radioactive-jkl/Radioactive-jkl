@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 
 ### 👋 Hi there
+| **Visualization** | **Notes** |
+|-------------------|-----------|
+| ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Radioactive-jkl&theme=shadow_blue&layout=compact) | welcome to my profile.<br>I will share my code here<br>and take notes on my<br>[website](https://radioactive-jkl.github.io/) ~~if free~~.
 
-> welcome to my profile.\
-> I will share my code here and take notes on my [website](https://radioactive-jkl.github.io/) ~~if free~~.
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Radioactive-jkl&theme=shadow_blue&layout=compact) 
 
 
 
