@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph
 
 <picture>
   <source
