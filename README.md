@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ### *welcome to my profile.* 
 ### *I will share my code here and take notes on my [website](https://radioactive-jkl.github.io/) if free.*
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Radioactive-jkl&theme=shadow_blue&layout=compact&hide=makefile,cmake)](https://github.com/Radioactive-jkl)
-
 <br>
 
 ## 📈 GitHub Activity Graph
